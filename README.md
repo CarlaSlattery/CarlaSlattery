@@ -1,3 +1,4 @@
+![Snake animation](https://github.com/CarlaSlattery/CarlaSlattery/blob/output/github-contribution-grid-snake.svg)
 <h1 align="center">Hi there👋, I'm Carla</h1>
 <h3 align="center">A full stack software developer with a background in business and healthcare</h3><div id="badges" align="center">
   <a href="https://www.linkedin.com/in/carla-slattery-5a0a37253/">
