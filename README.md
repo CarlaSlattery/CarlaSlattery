@@ -16,7 +16,7 @@
 
 - 🐝 Student at <a href="https://www.commandshift.co.uk/">CommandShift</a>
 
-- 🌱 I’m currently learning ** React **
+- 🌱 I’m currently learning **React**
 
 My career to date has led to a range of professional experiences, first as a HR professional working in leadership roles in both the private and public sector and more recently, as a qualified Physiotherapist for the NHS and for private clients. During the course of these roles, I saw the negative impact that outdated processes and software could have on user experiences and overall business efficiency. Equipped with a range of transferable skills, I decided to take my passion for technology and pursue a career as a software developer. My goal is to help to solve real world problems and build solutions that can make a difference to clients and communities. I would be love to join a team with similar objectives that embraces diversity and new ways of working.
 
