@@ -14,7 +14,7 @@
 
 - 📫 How to reach me: **cslatterydev@gmail.com**
 
-- 🐝 Student at <a href="https://www.commandshift.co.uk/">CommandShift</a>
+- 🐝 <a href="https://www.commandshift.co.uk/">CommandShift</a> Alumni Sept 2022
 
 - 🌱 I’m currently learning **React**
 
@@ -24,7 +24,7 @@ Additional Info
 - 🏳️‍🌈 Pronouns: She/her
 - 👩‍❤️‍👩 Engaged to Lexi & proud pug-mummy to Frank 💍🐾
 - 🪚 In my spare time I like to make bad furniture, cook too much food and fret over how many books I want to read.
-- 🤝 If you think I could be a good fit for your project or company get in touch! I'd be especially interested to collaborate on work relating to access to healthcare/mental health causes, social justice, climate change and lgbtq+ & womens rights.
+- 🤝 If you think I could be a good fit for your project please get in touch! I'd be especially interested to collaborate on work relating to green issues, lgbtq+ & womens rights and access to physical and mental healthcare.
 
 
 <h3 align="center">Connect with me:</h3>
