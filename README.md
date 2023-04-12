@@ -38,15 +38,9 @@ Additional Info
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlaslattery&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="carlaslattery" /></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=carlaslattery&show_icons=true&locale=en&theme=nightowl" alt="carlaslattery" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=carlaslattery&theme=nightowl" alt="carlaslattery" /></p>
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=carlaslattery&title=Commits,Repositories,PullRequest&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="https://www.codewars.com/users/CarlaSlattery">
   <img align="center" src="https://www.codewars.com/users/CarlaSlattery/badges/large" alt="CodeWars Badge" />
