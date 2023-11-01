@@ -12,19 +12,23 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=carlaslattery&label=Profile%20views&color=0e75b6&style=flat" alt="carlaslattery" /> </p>
 
+- 👩‍💻 BBC Junior Software Engineer
+  
 - 📫 How to reach me: **cslatterydev@gmail.com**
 
 - 🐝 <a href="https://www.commandshift.co.uk/">CommandShift</a> Alumni Sept 2022
 
 - 🌱 I’m currently learning **Typescript**
 
-My career to date has led to a range of professional experiences, first as a HR professional working in leadership roles in both the private and public sector and more recently, as a qualified Physiotherapist for the NHS and for private clients. During the course of these roles, I saw the negative impact that outdated processes and software could have on user experiences and overall business efficiency. Equipped with a range of transferable skills, I decided to take my passion for technology and pursue a career as a software developer. My goal is to help to solve real world problems and build solutions that can make a difference to clients and communities. I would be love to join a team with similar objectives that embraces diversity and new ways of working.
+I have been fortunate that my career to date has led to a range of professional experiences, from leadership roles as a HR professional to working for several years in the NHS as a physiotherapist.
+
+More recently, I decided to combine my love for teamwork and problem solving to focus on a career change to software engineering. Following the guidance and support of the Command Shift bootcamp and wider tech community, I was able to secure a role as a Junior Software Engineer with the BBC as part of their graduate scheme. Currently I am part of the BBC Sounds Smart Speakers team where I work with Node JS, Typescript and AWS technologies to integrate with smart speaker SDK's in order to deliver the BBC Sounds service to users across the UK.
 
 Additional Info
 - 🏳️‍🌈 Pronouns: She/her
-- 👩‍❤️‍👩 Engaged to Lexi & proud pug-mummy to Frank 💍🐾
-- 🪚 In my spare time I like to make bad furniture, cook too much food and fret over how many books I want to read.
-- 🤝 If you think I could be a good fit for your project please get in touch! I'd be especially interested to collaborate on work relating to green issues, lgbtq+ & womens rights and access to physical and mental healthcare.
+- 👩‍❤️‍👩 Engaged to Lexi & proud pug-mummy to Frank 🦴
+- 🏃‍♀️ In my spare time I like to go running, cook too much food and fret over how many books I want to read.
+
 
 
 <h3 align="center">Connect with me:</h3>
