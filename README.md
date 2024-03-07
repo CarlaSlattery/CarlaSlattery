@@ -18,8 +18,6 @@
 
 - 🐝 <a href="https://www.commandshift.co.uk/">CommandShift</a> Alumni Sept 2022
 
-- 🌱 I’m currently learning **Typescript**
-
 I have been fortunate that my career to date has led to a range of professional experiences, from leadership roles as a HR professional to working for several years in the NHS as a physiotherapist.
 
 More recently, I decided to combine my love for teamwork and problem solving to focus on a career change to software engineering. Following the guidance and support of the Command Shift bootcamp and wider tech community, I was able to secure a role as a Junior Software Engineer with the BBC as part of their graduate scheme. Currently I am part of the BBC Sounds Smart Speakers team where I work with Node JS, Typescript and AWS technologies to integrate with smart speaker SDK's in order to deliver the BBC Sounds service to users across the UK.
