@@ -20,7 +20,7 @@
 
 I have been fortunate that my career to date has led to a range of professional experiences, from leadership roles as a HR professional to working for several years in the NHS as a physiotherapist.
 
-More recently, I decided to combine my love for teamwork and problem solving to focus on a career change to software engineering. Following the guidance and support of the Command Shift bootcamp and wider tech community, I was able to secure a role as a Junior Software Engineer with the BBC as part of their graduate scheme. Currently I am part of the BBC Live Team where I work with Node JS, Typescript and React to maintain live news and sport content on the BBC website.
+More recently, I decided to combine my love for teamwork and problem solving to focus on a career change to software engineering. Following the guidance and support of the Command Shift bootcamp and wider tech community, I was able to secure a role as a Junior Software Engineer with the BBC as part of their graduate scheme. During this time I have worked in BBC Sounds with the Smart Speakers Team, BBC Live Team supporting the BBC News and Sport webpages and am currently working within FABL - an internal team dynamic data aggregation and transformation platform that supports multiple BBC platform teams such as News, Sport, Weather and Bitesize.   
 
 Additional Info
 - 🏳️‍🌈 Pronouns: She/her
